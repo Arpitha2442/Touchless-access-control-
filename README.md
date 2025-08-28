@@ -33,7 +33,7 @@ A mobile-first, PWA-ready prototype for *touchless access control* using:
 Smart Lock (Controlled via backend signal)
 Access decision indicators (Green/Red)
 
-## Architecture Flow
+# Architecture Flow
 
 1. User opens the Mobile App → sends access request.
 
